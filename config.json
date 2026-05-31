@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyencrypt",
+        "uuid": 13944930,
+        "checksum": "da2tjx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
